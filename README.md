@@ -40,6 +40,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0015-3sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
