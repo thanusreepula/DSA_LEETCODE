@@ -8,6 +8,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 ## Math
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0002-add-two-numbers](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 ## Hash Table
 |  |
 | ------- |
