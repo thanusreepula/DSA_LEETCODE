@@ -16,6 +16,7 @@
 | [0007-reverse-integer](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -111,4 +112,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/thanusreepula/DSA_LEETCODE/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
